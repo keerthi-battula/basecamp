@@ -65,7 +65,7 @@ public static void main(String[] args)
 		break;
 		case 5:
 		{
-		System.out.println("thank you!");
+		System.out.println("thank you! visit again");
 		}
 		break;
 		default :
