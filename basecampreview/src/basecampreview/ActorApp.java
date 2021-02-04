@@ -70,7 +70,7 @@ public static void main(String[] args)
 		break;
 		default :
 		{
-			System.out.println("enter a valid option");
+			System.out.println("enter a valid choice:");
 		}
 		break;
 		}
